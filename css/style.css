@@ -1,0 +1,10 @@
+.nav-wrapper{
+    background-color: #6f4037;
+}
+.slider .indicators .indicator-item.active{
+    background-color: #6f4037;
+}
+/* .move{
+    margin-top: 200px;
+    margin-bottom: 60px;
+} */
