@@ -8,3 +8,17 @@
     margin-top: 200px;
     margin-bottom: 60px;
 } */
+.parallax-container {
+    min-height: 280px;
+    height: auto;
+}
+.icon-coffee{
+    color: #6f4037;
+}
+.footer-one{
+    background: #6f4037;
+}
+.footer-two{
+    background: #462822;
+}
+
